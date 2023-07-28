@@ -19,8 +19,8 @@ const quotes =[
 
     {
         id:1,
-        author:'Oscar Wilde',
-        text:'To live is the rarest thing in the world. Most people exist, that is all.'
+        author:'Sosuke Aizen',
+        text:'Laws exist only for those who cannot live without clinging to them.'
     },
     {
         id:2,
@@ -29,13 +29,13 @@ const quotes =[
     },
     {
         id:3,
-        author:'Ralph Waldo Emerson',
-        text:'To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.'
+        author:'Light Yagami',
+        text:'I can’t develop feelings. That’s how most idiots screw up.'
     },
     {
         id:4,
-        author:'Haruki Murakami',
-        text:'Pain is inevitable. Suffering is optional.'
+        author:'Madra Uchiha',
+        text:'Admiration is the furthest thing from understanding.'
     },
     
 ]
